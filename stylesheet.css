@@ -24,17 +24,17 @@ img
   float: left;
   margin-top: 50px;
   width: 10%;
-  height: 400px;
+  height: 430px;
   margin-bottom: 10px;
   border-style:solid;
-  border-color:red;
+  border-color:black;
 }
 
 .directions{
   position: relative;
   float: right;
   margin-top: 50px;
-  width: 88%;
+  width: 70%;
   margin-bottom: 10px;
   padding: 5px;
   border-style:solid;
